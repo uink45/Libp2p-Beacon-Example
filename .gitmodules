@@ -1,0 +1,4 @@
+[submodule "dotnet-libp2p"]
+	path = dotnet-libp2p
+	url = https://github.com/NethermindEth/dotnet-libp2p.git
+	branch = bc-example
